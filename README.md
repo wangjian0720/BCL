@@ -1,2 +1,2 @@
 # BCMT
-Paper Code
+The code implementation for this paper will be released soon...
