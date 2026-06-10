@@ -1,0 +1,2 @@
+metric is [array([0.84901715, 1.14801163])] 
+average metric is [0.84901715 1.14801163]
