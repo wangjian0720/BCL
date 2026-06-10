@@ -36,3 +36,5 @@ Before testing, please ensure that:
 - the checkpoint path is correctly specified,
 - the dataset path is properly configured.
 ---
+
+Related training code will be made available soon...
